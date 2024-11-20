@@ -1,7 +1,7 @@
 # TV
 
 ## 直播源
-[电视直播源txt格式引用地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)
+[电视直播源txt格式引用地址](https://ghp.ci/raw.githubusercontent.com/haoyong001/miaosang/refs/heads/main/miaosang.txt)
 
 
 ## 注意
