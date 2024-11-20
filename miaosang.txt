@@ -22,6 +22,25 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+CCTV-1 综合,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
+CCTV-2 财经,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
+CCTV-3 综艺,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8
+CCTV-4 中文国际,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8
+CCTV-5 体育,http://222.241.154.37:9901/tsfile/live/23005_1.m3u8
+CCTV-6 电影,http://222.241.154.37:9901/tsfile/live/23006_1.m3u8
+CCTV-7 国防军事,http://222.241.154.37:9901/tsfile/live/23007_1.m3u8
+CCTV-8 电视剧,http://222.241.154.37:9901/tsfile/live/23008_1.m3u8
+CCTV-9 纪录,http://222.241.154.37:9901/tsfile/live/23009_1.m3u8
+CCTV-10 科教,http://222.241.154.37:9901/tsfile/live/23010_1.m3u8
+CCTV-11 戏曲,http://222.241.154.37:9901/tsfile/live/23011_1.m3u8
+CCTV-12 社会与法,http://222.241.154.37:9901/tsfile/live/23012_1.m3u8
+CCTV-13 新闻,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
+CCTV-14 少儿,http://222.241.154.37:9901/tsfile/live/23014_1.m3u8
+CCTV-15 音乐,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
+CCTV-16 奥林匹克,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8
+CCTV-17 农业农村,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
+CCTV-5+ 体育赛事,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
+
 地方卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
