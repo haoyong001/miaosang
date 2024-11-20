@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="C28340.PoakR0uYBKgp.E9Z1drS1RHfE.i0" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://39.134.65.162/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png" group-title="央视",CCTV-2 财经
 http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8
@@ -45,7 +45,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225750/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1,tvg-id="CGTN-纪录" tvg-name="CGTN-纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
 http://39.134.65.162/PLTV/88888888/224/3221225509/index.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -89,7 +89,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1,tvg-id="CGTN-纪录" tvg-name="CGTN-纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://110.178.52.190:8085/udp/239.1.1.7:8007
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://110.178.52.190:8085/udp/239.1.1.8:8008
@@ -169,7 +169,7 @@ http://110.178.52.190:8085/udp/239.1.1.88:8088
 http://110.178.52.190:8085/udp/239.1.1.105:8105
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
 http://110.178.52.190:8085/udp/239.1.1.107:8107
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
@@ -205,7 +205,7 @@ http://222.241.154.37:9901/tsfile/live/23016_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://125.71.58.134:6066/udp/239.93.0.184:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://125.71.58.134:6066/udp/239.93.1.23:6000
@@ -263,7 +263,7 @@ http://125.71.58.134:6066/udp/239.93.42.49:5140
 http://125.71.58.134:6066/udp/239.93.42.50:5140
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://epg.112114.xyz/logo/百姓健康.png" group-title="其他",CHTV-百姓健康
 http://125.71.58.134:6066/udp/239.93.42.35:5140
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://113.9.124.45:88/udp/229.58.190.72:5000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://113.9.124.45:88/udp/229.58.190.153:5000
@@ -325,7 +325,7 @@ http://113.9.124.45:88/udp/229.58.190.174:5000
 http://113.9.124.45:88/udp/229.58.190.194:5000
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.112114.xyz/logo/中学生.png" group-title="央视",中央新影-中学生
 http://113.9.124.45:88/udp/229.58.190.99:5000
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://113.9.124.45:88/udp/229.58.190.151:5000
 #EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
 http://113.9.124.45:88/udp/229.58.190.26:5000
