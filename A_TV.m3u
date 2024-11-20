@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1,tvg-id="C28340.PoakR0uYBKgp.E9Z1drS1RHfE.i0" tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视",CCTV-1 综合
 http://39.134.65.162/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png" group-title="央视",CCTV-2 财经
 http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png" group-title="央视",CCTV-3 综艺
 http://39.134.65.162/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://39.134.65.162/PLTV/88888888/224/3221225797/index.m3u8
@@ -29,7 +29,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://39.134.65.162/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103504911_769.png" group-title="央视",CCTV-14 少儿
 http://39.134.65.162/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
