@@ -25,25 +25,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 
-CCTV-1 综合,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
-CCTV-2 财经,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
-CCTV-3 综艺,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8
-CCTV-4 中文国际,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8
-CCTV-5 体育,http://222.241.154.37:9901/tsfile/live/23005_1.m3u8
-CCTV-5+ 体育赛事,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
-CCTV-6 电影,http://222.241.154.37:9901/tsfile/live/23006_1.m3u8
-CCTV-7 国防军事,http://222.241.154.37:9901/tsfile/live/23007_1.m3u8
-CCTV-8 电视剧,http://222.241.154.37:9901/tsfile/live/23008_1.m3u8
-CCTV-9 纪录,http://222.241.154.37:9901/tsfile/live/23009_1.m3u8
-CCTV-10 科教,http://222.241.154.37:9901/tsfile/live/23010_1.m3u8
-CCTV-11 戏曲,http://222.241.154.37:9901/tsfile/live/23011_1.m3u8
-CCTV-12 社会与法,http://222.241.154.37:9901/tsfile/live/23012_1.m3u8
-CCTV-13 新闻,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
-CCTV-14 少儿,http://222.241.154.37:9901/tsfile/live/23014_1.m3u8
-CCTV-15 音乐,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
-CCTV-16 奥林匹克,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8
-CCTV-17 农业农村,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
-
 地方卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
@@ -100,7 +81,7 @@ CCTV-16高清,http://1b6467f415.iok.la:9931/tsfile/live/1094_1.m3u8
 CCTV15高清,http://1b6467f415.iok.la:9931/tsfile/live/1035_1.m3u8
 CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 
-地方卫视高清,#genre#
+卫视高清,#genre#
 湖南卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1058_1.m3u8
 浙江卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1059_1.m3u8
 江苏卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
@@ -139,18 +120,20 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 厦门卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1093_1.m3u8
 三沙卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1038_1.m3u8
 
+全国各省,#genre#河北,#genre#
+河北-经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
+河北-农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+河北-都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
+河北-影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
+河北-少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+河北-公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
+河北-三佳购物,http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e
+
 动画动漫,#genre#
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 卡酷少儿,http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8
 金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
-
-河北其他,#genre#
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1732113982&k=1c2997969b9e4badbeeba75d25e84a81
-河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1732044298&k=b378e807902a57008a74f24485d36c7b
-河北都市频道,https://tv.pull.hebtv.com/jishi/dushipindao-577306418.ts?ctyun_app=jishi&ctyun_stream=dushipindao&ctyun_rate=0.000&ctyun_starttime=1731621032306
-少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1732044365&k=62e0be9865fa26e016e9d5d32b3b04f7
-河北影视剧,https://tv.pull.hebtv.com/zhibo/yingshijupindao-577287543.ts?ctyun_app=zhibo&ctyun_stream=yingshijupindao&ctyun_rate=0.000&ctyun_starttime=1731953249519
 
 浙江其他,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
