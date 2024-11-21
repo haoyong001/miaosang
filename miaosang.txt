@@ -4,6 +4,7 @@
 央视频道,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-2 财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -145,6 +146,8 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 
 
 广东频道,#genre#
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://120.234.49.37:7000/rtp/239.20.0.111:2020
 广东影视,http://1b6467f415.iok.la:9931/tsfile/live/1018_1.m3u8
 广视新闻,http://1b6467f415.iok.la:9931/tsfile/live/1138_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -240,6 +243,7 @@ SMArt知识,http://litv.zapi.us.kg/?id=litv-longturn19
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 凤凰卫视,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -247,7 +251,9 @@ SMArt知识,http://litv.zapi.us.kg/?id=litv-longturn19
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 Plus综合,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
@@ -255,6 +261,11 @@ popc电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台娱乐,http://58.250.155.2:8180/TV00000000000000000032@HHZT
+翡翠台动画,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台电影,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -341,6 +352,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 CGTN外语,#genre#
 CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN英语,https://pi.0472.org/tv/fct.php?auth=230918
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
@@ -352,6 +364,7 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 每日影院HD,http://1b6467f415.iok.la:9931/tsfile/live/1045_1.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 电视剧轮播,#genre#
 精彩电视剧,http://zby.xjqxz.top/dsj/live.m3u8
