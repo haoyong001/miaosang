@@ -8,16 +8,22 @@ CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/inde
 CCTV-2 财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+CCTV-4 中文国际,https://stream1.freetv.fun/b52036a96ef70a56f316bcf39390fb09543ef28c1f80b051d8d05255ace6bce5.m3u8
+CCTV-4 中文国际,https://stream1.freetv.fun/023d797cfd30a8db9a44d7035ae9a25794d83f1b00ac6017c708ceb4871194b6.m3u8
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9 纪录,https://stream1.freetv.fun/90bd4307876372cab6df8ee38e4325ece2f13504e7ae05576b7779be5c68dc66.m3u8
+CCTV-9 纪录,https://stream1.freetv.fun/71619ea424c021d7822228e64af0ea4be816a84f68c46db0d7bf2532f4af99d6.m3u8
 CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-12 社会与法,https://stream1.freetv.fun/b04c1b6a05c9bf824735de7cfc3e77893254956935041281f326e615dbfbc235.m3u8
+CCTV-12 社会与法,https://stream1.freetv.fun/2d02bf2068a070ee67a8102324e5e7e3d4d0603e1f1d274dc95d12ff4f930b2c.m3u8
+CCTV-12 社会与法,https://stream1.freetv.fun/8916e9f7b8c785578152459d057d0df89feb2f3fc556d5278abd752c98605ab9.ctv
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
@@ -126,7 +132,12 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 河北频道,#genre#
 
 河南频道,#genre#
-嵩县综合新闻,https://stream1.freetv.fun/03278433b264223d8f96057734cfe40edb11789c2b6d85b538d11acd8ed5d6ca.m3u8
+嵩县综合,https://stream1.freetv.fun/03278433b264223d8f96057734cfe40edb11789c2b6d85b538d11acd8ed5d6ca.m3u8
+鹿邑新闻,https://stream1.freetv.fun/b661bd82091c4215587adb9ddce8a518aa20e15dab50cf218d88f305edac7213.m3u8
+
+山东频道,#genre#
+山东综艺,https://stream1.freetv.fun/1d514768bc06c7e3b2f812082f0f89cadfef559f158bd25490af6ef0f107356b.m3u8
+山东综艺,https://stream1.freetv.fun/5526a6e2bb6170061fee498d65aec1e0ba7fd295df2ee90a57f94d754d26eba6.m3u8
 
 黑龙江频道,#genre#
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
@@ -168,33 +179,40 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
-tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+Tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+Tvbs闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+Tvbs精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+Tvbs精采,https://stream1.freetv.fun/6fbdab20eab852bdd687d555493c325c308e0d1810227661f2b1bc0c318149aa.ctv
+Tvbs精采,https://stream1.freetv.fun/c6cf6d640e74eaafae11b307f0e6d7ad9920546452e2a979eedd215108ac5e31.ctv
+Tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+Tvbs欢乐,https://stream1.freetv.fun/dc69627df6f863144823e5afcbcaab47859a5a28ddc169f213586f5387d7d1b3.ctv
+Tvbs欢乐,https://stream1.freetv.fun/f142343cc50a9f430bd9d30a24cb9bd1e66832007de3a75cee534e7129c63dd2.ctv
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+中视新闻,https://stream1.freetv.fun/2bb5129a50be3ad71f8a0a2c8c223b39028ed965069084d1255c969599451c61.m3u8
+中视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
 民视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv155
-中视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv040
 华视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv041
 视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 寰视新闻台湾台,http://litv.zapi.us.kg/?id=litv-longturn15
-tvbs闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 民视湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视湾,http://litv.zapi.us.kg/?id=4gtv-4gtv156
 民视第一,http://litv.zapi.us.kg/?id=4gtv-4gtv003
 民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+民视综艺,https://stream1.freetv.fun/67c1e0285cab0b743065d9ed0d8e947776cc751367d457d32031457a9a456e3f.ctv
+民视综艺,https://stream1.freetv.fun/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dcc71cf8.ctv
 视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
 湾湾戏剧,http://litv.zapi.us.kg/?id=litv-longturn22
 国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-tvbs精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
 八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
@@ -204,6 +222,8 @@ tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
 靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
 靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天欢乐,https://stream1.freetv.fun/5f3d63253db5f5d69df6c4c05351b9edb814e7f3a0547761cd467ba4a81fd4bd.ctv
+靖天欢乐,https://stream1.freetv.fun/0e23a46b049a72886087950976dbf1ebf40b62f3d7cd68ae5223b7c17ff265ec.ctv
 靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
 靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
@@ -337,6 +357,7 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+[HD]sic,https://stream1.freetv.fun/a322f4f4fbcbb04f8b2e9b7058bbdd808d0b0eb927c47c01fb7e66ba8359e76b.m3u8
 
 综合频道,#genre#
 综合频道1,http://zby.xjqxz.top/zh01/live.m3u8
