@@ -33,6 +33,9 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 cctv风云足球,https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.ctv
 cctv风云足球,https://stream1.freetv.fun/6fd6c5da601b6c9625a4e0a214f061c0f1fd507f6cebde538c652e7b58e01475.ctv
 cctv风云足球,https://stream1.freetv.fun/0961f505c42ebdd2ab9fea23f7e36bcc6a43afdcfd81e1ef342bc91cd8ccf0e3.ctv
+cctv风云音乐,https://stream1.freetv.fun/6120afbc0c8a1e0b48e720b0134f86c80fd86a578f29510d2456382bc32557f3.ctv
+cctv风云音乐,https://stream1.freetv.fun/3c0da85a843df69df06533da90bd9b0c9afbe023f23142b8fe8612aa3d0a0ce6.ctv
+cctv风云音乐,https://stream1.freetv.fun/bff6b938c370bd19c3d75fe1d7eaceced553294bc1da9e55e129eb1631d0e44d.ctv
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
@@ -162,6 +165,9 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 河北农民,https://stream1.freetv.fun/b9c051cb3be16e012e5da34f76dc695effce22db69eafd3f46914782c9fd3f49.ctv
 河北都市,https://stream1.freetv.fun/263b84b72216c73ca400e46d0820cbd33a0524419a6233a72bb165b05b1468a8.ctv
 河北都市,https://stream1.freetv.fun/6c37ab96bd03f02855f3c6aa6ce681b4c74f02aecf856b1496481dee1a51b54d.ctv
+少儿科教,https://stream1.freetv.fun/8ba2ea49df9585d94956bbe0e84070fe3c962de78c37973982c64039ab36449d.ctv
+少儿科教,https://stream1.freetv.fun/cd3bfcf3c62e7933e5e6010fd4f7881f8307e929fa62698140fddf002a6df885.ctv
+少儿科教,https://stream1.freetv.fun/f9cf18de5f83e7c519d76184de02790235f83748af95e851364fa7753a4f2df4.ctv
 睛彩河北,https://stream1.freetv.fun/67cbcd8a3ddcbb1d33892466dfee63499ed84d791343e02c4ce75f94e3b2dca4.ctv
 睛彩河北,https://stream1.freetv.fun/572cf8f073b615f8b2f01df6396ecd157995bfd5b3275313697fa2419eef8771.ctv
 睛彩河北,https://stream1.freetv.fun/ac2186c2fc18b1fff1a24f5d8a3b16ce883571bba294cfec716010d5fc4e22ca.ctv
@@ -209,7 +215,6 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 确山综合,https://stream1.freetv.fun/4616bf573c8a17d174cd07656d039fe67650df84b599ead9faad63f4ec4765bb.m3u8
 
 黑龙江频道,#genre#
-
 黑龙江新闻,https://stream1.freetv.fun/d68b42c909673dd0dba3fc70a07a51313abdfc0d8a1acb20447b00c51d664c7c.m3u8
 黑龙江新闻,https://stream1.freetv.fun/a0d5084511189ed847540c2f18f941827fa02c4c00fc89e647dea772a2567e46.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
@@ -219,6 +224,7 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+黑龙江少儿,https://stream1.freetv.fun/ab6a0ef118be70fc1630d6b8ad3a75fb3919482555a16dcbabf12a38702442dc.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
@@ -235,6 +241,7 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 山东生活,https://stream1.freetv.fun/78b52dd6e306fc85903331b0e9841f1d70469104d6fc7c86c7316f423ae18b93.m3u8
 山东生活,https://stream1.freetv.fun/9ec9bd895153cbe7234f40c2ecd2e15bb81114bd4190eeb6bdf4785bdc3fac08.m3u8
 山东齐鲁,https://stream1.freetv.fun/39855823c03804715a09a0edbb2274a5a73f776010ecd22551bc45159cb5f4e2.m3u8
+济南少儿,https://stream1.freetv.fun/98b21718745ef4f6ed287544482e5253dd1abfd2e165f2b1869c749f1d09bcad.m3u8
 济南教育,ttps://stream1.freetv.fun/70f32dea7dd37132bf92289000d33cce1d483e5a9caa8daceaa79ffb63b5ddea.m3u8
 临沂公共,https://stream1.freetv.fun/21e8aca669dcf00c4fdb1e832f89ba731cf1e432dda27be7852dd29dfc7ab2a4.m3u8
 临沂新闻,https://stream1.freetv.fun/70d9384786a5e1d8f973af3bab5643406bda0c89a7008eb6f322bb4c7ef9eb49.m3u8
@@ -264,6 +271,8 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://stream1.freetv.fun/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8
+浙江少儿,https://stream1.freetv.fun/73a1a9fbf604a312da58f407151a6ea7d272138541882a68be32065573496ff1.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科,https://stream1.freetv.fun/472e87d11e98f96d8255a57f2c0c86205014740b12936723a7267047b3f56c5d.m3u8
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -291,7 +300,7 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 福建教育,https://stream1.freetv.fun/ffa34ab9e211e02a095eac0d65245362fed996ef79807ccde0a502c895ad8c86.m3u8
 泉州综合,https://stream1.freetv.fun/a42dbc38f09e91405c92a848f0190e8042818671ae7edd27a824078752091953.m3u8
 
-江苏,#genre#
+江苏频道,#genre#
 徐州新闻,https://stream1.freetv.fun/3abd29820eb4714fbe4c1ddb435f8aacb554f0f13a1ecde82d407ff4a3ace7b4.m3u8
 连云港综合,https://stream1.freetv.fun/045d80238eacbe26e6a10fab68908a34cd55e26fcd729ffd2d618fa7cd4cbe5b.m3u8
 连云港综合,https://stream1.freetv.fun/ca78014e23d52bd8a39c2669f57acbbc3992231ecea74206fd288cc2e40fd5c2.m3u8
@@ -343,7 +352,7 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 凉山新闻,https://stream1.freetv.fun/b258b160abcd96aed439669a05ae13391b5c42002e73e017c8063949df63b178.m3u8
 凉山新闻,https://stream1.freetv.fun/f545b70ee799a056c37fe1826add3c5312878985268e6beb47032bf2651ff3f4.m3u8
 
-宁夏,#genre#
+宁夏频道,#genre#
 青海综合,https://stream1.freetv.fun/1e17e52bc461b7cfb47a41d11797f88e2d010bcf02ae3113695139fae1a5fb56.m3u8
 
 广东频道,#genre#
@@ -478,7 +487,6 @@ ptsxs小公視,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f
 靖天国际,https://stream1.freetv.fun/008b7492f59e650ba35748ed3574761b770ddb195d7559017799911e8b8fcb4f.ctv
 靖天国际,https://stream1.freetv.fun/b81804c79b8e13f3ae71246c6f2f464b87aadd5612baba2db44f773fa4597ca5.ctv
 靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
-龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
 龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
 龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
@@ -599,7 +607,14 @@ NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 卡酷少儿,http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8
 金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
+金鹰卡通,https://stream1.freetv.fun/2e704d6c4a4b644d5abd47ae43336bcbb51c251e73887a4c39b4e0f2543c07f0.m3u8
+金鹰卡通,https://stream1.freetv.fun/d359e4b4c64fc318def5882bd25710c29440c676c536363f3ecea9019a99ae7c.ctv
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
+海绵宝宝,https://stream1.freetv.fun/c52fae8fe3884641e5d0da50955607c238a00c3a49cc7769984b398d55e2ffc5.ctv
+海绵宝宝,https://stream1.freetv.fun/0d82569921be0ddf3f7743e09aac34cab32d0121ad3ceaeea14bbee2412ae6b7.ctv
+海绵宝宝,https://stream1.freetv.fun/466a6a1007f27c436c3e5773dc09a53bbf3af45d82cd6451c59fbae1eb2abf8a.ctv
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华卡通,https://stream1.freetv.fun/5a7c8a4f7ad7743f985e06ff124da7ee0ce6a8940b6a664c80d5ebf20a834ba9.ctv
 
 全球频道,#genre#
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -655,6 +670,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 电影频道,#genre#
+CHC影迷电影,http://1b6467f415.iok.la:9931/tsfile/live/1126_1.m3u8
 CHC影迷电影,https://stream1.freetv.fun/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8
 CHC影迷电影,https://stream1.freetv.fun/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
@@ -662,7 +678,7 @@ CHC动作电影,http://1b6467f415.iok.la:9931/tsfile/live/1047_1.m3u8
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 CHC家庭影院,http://1b6467f415.iok.la:9931/tsfile/live/1046_1.m3u8
-CHC高清高清,http://1b6467f415.iok.la:9931/tsfile/live/1126_1.m3u8
+
 每日影院HD,http://1b6467f415.iok.la:9931/tsfile/live/1045_1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
