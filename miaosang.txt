@@ -79,10 +79,12 @@ CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.
 内蒙古蒙语卫视,https://stream1.freetv.fun/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 大湾区卫视,https://stream1.freetv.fun/427b3b9c6ea2a93238d9e2f5f906270a68916caeb285042a975452f0126a6e24.m3u8
+澳门卫视,https://stream1.freetv.fun/5f07c175a9cd7c18a43ed354299f4f4a719146f53cc3cd08ca2a9242f00e6d5e.m3u8
 大湾区卫视,https://stream1.freetv.fun/69c1298f6adfb096203644ca1234a99730972d0fda8d1968c418c5b5f3b2557a.ctv
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 中国教育,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 安多卫视,https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8
+海峡卫视,https://stream1.freetv.fun/9595c520b5171c2703148c0a5f158afc88b6034c6b24c4562563dfcb94a20f14.m3u8
 客家电视,https://stream1.freetv.fun/f1567ca52bd4977a1d1a9c738986080b2020b862b5290f813e217f0dfb90b164.ctv
 客家电视,https://stream1.freetv.fun/a1939101f4d3f2f8a3a7b3abb5406a6b05661378c55928ddf609cc85e4dd121a.ctv
 
@@ -146,8 +148,13 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 三沙卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1038_1.m3u8
 
 河北频道,#genre#
+河北农民,https://stream1.freetv.fun/8ba077b37fdb5c63dc2ce6bc3ab777d1db1585ebedc5da88510051565d85d3f9.ctv
+河北农民,https://stream1.freetv.fun/b9c051cb3be16e012e5da34f76dc695effce22db69eafd3f46914782c9fd3f49.ctv
+河北都市,https://stream1.freetv.fun/263b84b72216c73ca400e46d0820cbd33a0524419a6233a72bb165b05b1468a8.ctv
+河北都市,https://stream1.freetv.fun/6c37ab96bd03f02855f3c6aa6ce681b4c74f02aecf856b1496481dee1a51b54d.ctv
 
 河南频道,#genre#
+河南都市,https://stream1.freetv.fun/b3a52f7286dec3931a8cd40454e84a2c7f816a18d5bb9a08082564f62c32928b.ctv
 嵩县综合,https://stream1.freetv.fun/03278433b264223d8f96057734cfe40edb11789c2b6d85b538d11acd8ed5d6ca.m3u8
 鹿邑新闻,https://stream1.freetv.fun/b661bd82091c4215587adb9ddce8a518aa20e15dab50cf218d88f305edac7213.m3u8
 
@@ -158,6 +165,10 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 山东生活,https://stream1.freetv.fun/78b52dd6e306fc85903331b0e9841f1d70469104d6fc7c86c7316f423ae18b93.m3u8
 山东生活,https://stream1.freetv.fun/9ec9bd895153cbe7234f40c2ecd2e15bb81114bd4190eeb6bdf4785bdc3fac08.m3u8
 山东齐鲁,https://stream1.freetv.fun/39855823c03804715a09a0edbb2274a5a73f776010ecd22551bc45159cb5f4e2.m3u8
+
+山西频道,#genre#
+晋城公共,https://stream1.freetv.fun/8541f17cd6081bc041d504cd6edbc1803cb1162e1ce2207d4d4486a98b3769d2.m3u8
+晋城公共,https://stream1.freetv.fun/906138969e04bb17662c36afe229862daf7f6d4f21e727ef3f9c2e6647a82435.m3u8
 
 黑龙江频道,#genre#
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
@@ -179,6 +190,14 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+杭州生活,https://stream1.freetv.fun/612c148cb9395dfc3d60bfcb37ca7de7180ae4bc53d91447643dc83bf1589e2e.ctv
+
+湖南频道,#genre#
+湖南经视,https://stream1.freetv.fun/4844847636ec1291ef3a01955a8b99b2ac4197daaef9a3fa86f839ce18b429dd.m3u8
+湖南都市,https://stream1.freetv.fun/a982cf1ae4213afdb1db40ea6137fc43a40c929092e449b5d9b12669d3c9bd59.m3u8
+湖南都市,https://stream1.freetv.fun/418176731bed49e0daab3fdc374f7c57fdcce66ca3668218e3337aa91ff9c2ba.m3u8
+湖南都市,https://stream1.freetv.fun/353129975438145c04086029287dabd9efa07c22d24aecafcb44f4acf96735f1.ctv
+
 
 安徽频道,#genre#
 经济生活,https://stream1.freetv.fun/3938a495fba6df0234433ccd5edf43a52ab2cd39f2f57bac480ae9b63d27c55f.m3u8
@@ -272,7 +291,7 @@ ptsxs小公視,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f
 八大精彩,https://stream1.freetv.fun/b79af9cc2f9278994e01c40a671834790dadb4249130ed11a1c29c60b000548e.ctv
 八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 八大综艺,https://stream1.freetv.fun/9d2a322b7eebe7f4871007237fd947f3637931b381ff02449827a280538ab854.ctv
-八大综合,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
 靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
 靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
@@ -284,6 +303,11 @@ ptsxs小公視,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f
 靖天欢乐,https://stream1.freetv.fun/0e23a46b049a72886087950976dbf1ebf40b62f3d7cd68ae5223b7c17ff265ec.ctv
 靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
 靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天电影,https://stream1.freetv.fun/b7b334eee155c0e904ec230e64f4ff9f242a5158d58709ce6e1f5b8d18216b10.ctv
+靖天电影,https://stream1.freetv.fun/4b52f60448b52dc2de12e73976800074fa678ec4a94c399c9ca7d5647ab725c1.m3u8
+靖天电影,https://stream1.freetv.fun/854e3ec9846bbdaea7b147831fcfb1c3b471718c9c1848fefbc90be890f26916.ctv
+靖天电影,https://stream1.freetv.fun/f218fad19c2e1ece78baa36eb680d798e57c1468589c8ab1116f2e93cc738ff3.m3u8
+靖天电影,https://stream1.freetv.fun/8e0ac9287b911b9963d9c655a1b56ad34863f00efe244a290c0d7da9df86da3a.ctv
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
 靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
