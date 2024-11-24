@@ -894,7 +894,7 @@ CHC家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQ
 爱喜剧,http://39.134.136.161:6610/000000001000/2000000004000000032/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000032
 爱喜剧,http://39.134.136.161:6610/000000001000/6000000006000010630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000010630
 军事大片,http://kxrj.site:1333/86/mg.php?id=jsdp
-每日影院HD👉,http://1b6467f415.iok.la:9931/tsfile/live/1045_1.m3u8
+每日影院,http://1b6467f415.iok.la:9931/tsfile/live/1045_1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓电影,http://39.134.136.161:6610/000000001000/8785669936177902664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8785669936177902664
