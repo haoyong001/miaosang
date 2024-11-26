@@ -3,6 +3,17 @@
 ## 直播源
 [电视直播源txt格式引用地址](https://ghp.ci/raw.githubusercontent.com/haoyong001/miaosang/refs/heads/main/miaosang.txt)
 
+## 猫_TV直播源：
+https://szyyds.cn/tv/live/x.txt
+
+## 开心直播源：
+http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt
+
+## 开心大佬直播源：
+http://ttkx.cc:55/lib/kx2024.txt
+
+## 恒星直播源：
+http://yuhuahx.com/dsj66.txt
 
 ## 注意
     1、播放中如果出现闪退，可以快速调台至可以正常播放的频道，然后更改播放核心如EXO或系统。
